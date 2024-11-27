@@ -1,7 +1,3 @@
-Here's the completed README text for direct use:
-
----
-
 # M2 Management System
 
 The **M2 Management System** is a robust solution developed specifically for the University of KwaZulu-Natal. It is designed to assist staff in managing key operational areas, including medicine inventory tracking, appointment scheduling, and patient file management. The system enhances workflow efficiency and optimizes daily operations.
@@ -87,6 +83,3 @@ For any queries or support, please contact:
 Email: lionhamza39@gmail.com 
 Location: Newcastle, Madadeni, South Africa  
 
----
-
-You can copy and paste this directly into your README file!
